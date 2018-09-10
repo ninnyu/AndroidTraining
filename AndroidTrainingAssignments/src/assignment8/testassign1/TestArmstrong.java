@@ -9,6 +9,11 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.assertEquals;
 import assignment1.ArmstrongNum;
 
+/** 
+ * @author Dragos Review
+ * Looks great!
+ */
+
 @RunWith(Parameterized.class)
 public class TestArmstrong {
 	

@@ -10,6 +10,12 @@ import static org.junit.Assert.assertEquals;
 import assignment1.ArmstrongNum;
 import assignment1.PrimeNum;
 
+/** 
+ * @author Dragos Review
+ * Looks great!
+ */
+
+
 @RunWith(Parameterized.class)
 public class TestPrime {
 	

@@ -6,6 +6,11 @@ import org.junit.jupiter.api.Test;
 
 import assignment4.RotateArray;
 
+/** 
+ * @author Dragos Review
+ * Looks great!
+ */
+
 public class TestRotateArray {
 	int[] input = {1, 2, 3, 4, 5, 6, 7};
 	int[] expected = {3, 4, 5, 6, 7, 1, 2};	//expected after rotating by 2

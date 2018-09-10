@@ -10,6 +10,12 @@ import org.omg.CORBA.INITIALIZE;
 
 import assignment1.FibonacciSeries;
 
+/** 
+ * @author Dragos Review
+ * Looks great!
+ */
+
+
 public class TestFibonacci {
 	int[] expected = {0, 1, 1, 2, 3, 5, 8, 13, 21, 34};
 	int[] actual;

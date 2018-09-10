@@ -10,6 +10,11 @@ import static org.junit.Assert.assertEquals;
 import assignment1.ArmstrongNum;
 import assignment1.FactorialNum;
 
+/** 
+ * @author Dragos Review
+ * Looks great!
+ */
+
 @RunWith(Parameterized.class)
 public class TestFactorial {
 	
