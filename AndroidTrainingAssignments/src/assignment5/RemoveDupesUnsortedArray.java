@@ -4,6 +4,11 @@
  * Description: Program that removes duplicates in an array.
  */
 
+/**
+ * DragosReview
+ * Comment: code looks very good! 
+ */
+
 package assignment5;
 
 import java.util.Arrays;
